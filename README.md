@@ -1,4 +1,4 @@
-# TaskSphere API
+# Voltask API
 
 A production-ready **multi-tenant SaaS Task Manager** built with **FastAPI** + **PostgreSQL (Supabase)**.
 
